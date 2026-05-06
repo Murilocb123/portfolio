@@ -89,10 +89,10 @@ const PROJECTS_SOURCE: readonly ProjectSource[] = [
     ],
     tags: ['Angular 19', 'Spring Boot', 'FastAPI', 'PostgreSQL', 'JWT'],
     repos: [
-      { name: 'Frontend (Angular 19)', url: 'https://github.com/Murilocb123/tcc-front-portflow' },
-      { name: 'Backend (Spring Boot)', url: 'https://github.com/Murilocb123/tcc-back-end-portflow' },
-      { name: 'Data Analytics (FastAPI)', url: 'https://github.com/Murilocb123/tcc-data-analytcs' },
-      { name: 'Bridge API (Python)', url: 'https://github.com/Murilocb123/tcc-bridge-api' },
+      { name: 'Frontend (Angular 19)', url: 'https://github.com/Murilo-Bittencourt/tcc-front-portflow' },
+      { name: 'Backend (Spring Boot)', url: 'https://github.com/Murilo-Bittencourt/tcc-back-end-portflow' },
+      { name: 'Data Analytics (FastAPI)', url: 'https://github.com/Murilo-Bittencourt/tcc-data-analytcs' },
+      { name: 'Bridge API (Python)', url: 'https://github.com/Murilo-Bittencourt/tcc-bridge-api' },
     ],
     details: {
       longDescriptionPt:
@@ -119,8 +119,8 @@ const PROJECTS_SOURCE: readonly ProjectSource[] = [
     imageHeight: DEFAULT_H,
     tags: ['AWS', 'Kubernetes', 'Spring Boot', 'Angular 18', 'PWA', 'SQS'],
     repos: [
-      { name: 'Frontend (Angular 18 + PWA)', url: 'https://github.com/Murilocb123/NoUtion-v2-front-end' },
-      { name: 'Backend (Spring Boot + Java 21)', url: 'https://github.com/Murilocb123/NoUtion-v2-back-end' },
+      { name: 'Frontend (Angular 18 + PWA)', url: 'https://github.com/Murilo-Bittencourt/NoUtion-v2-front-end' },
+      { name: 'Backend (Spring Boot + Java 21)', url: 'https://github.com/Murilo-Bittencourt/NoUtion-v2-back-end' },
     ],
     details: {
       longDescriptionPt:
@@ -146,8 +146,8 @@ const PROJECTS_SOURCE: readonly ProjectSource[] = [
     imageWidth: DEFAULT_W,
     imageHeight: DEFAULT_H,
     tags: ['Angular', 'TypeScript', 'npm', 'Library'],
-    url: 'https://www.npmjs.com/package/@murilocb123/ng-terminal-simulator',
-    repos: [{ name: 'Repositório', nameEn: 'Repository', url: 'https://github.com/Murilocb123/terminal-angular' }],
+    url: 'https://www.npmjs.com/package/@Murilo-Bittencourt/ng-terminal-simulator',
+    repos: [{ name: 'Repositório', nameEn: 'Repository', url: 'https://github.com/Murilo-Bittencourt/terminal-angular' }],
   },
   {
     title: 'Crypto App',
@@ -159,7 +159,7 @@ const PROJECTS_SOURCE: readonly ProjectSource[] = [
     imageWidth: DEFAULT_W,
     imageHeight: DEFAULT_H,
     tags: ['React', 'Vite', 'Web Crypto API', 'Cryptography'],
-    repos: [{ name: 'Repositório', nameEn: 'Repository', url: 'https://github.com/Murilocb123/crypto-app-react' }],
+    repos: [{ name: 'Repositório', nameEn: 'Repository', url: 'https://github.com/Murilo-Bittencourt/crypto-app-react' }],
   },
   {
     title: 'Comparador de Combustível',
@@ -171,7 +171,7 @@ const PROJECTS_SOURCE: readonly ProjectSource[] = [
     imageWidth: DEFAULT_W,
     imageHeight: DEFAULT_H,
     tags: ['Flutter', 'Dart', 'Mobile', 'Local Storage'],
-    repos: [{ name: 'Repositório', nameEn: 'Repository', url: 'https://github.com/Murilocb123/comparador-combustivel-flutter' }],
+    repos: [{ name: 'Repositório', nameEn: 'Repository', url: 'https://github.com/Murilo-Bittencourt/comparador-combustivel-flutter' }],
   },
   {
     title: 'Airmap Dijkstra',
@@ -183,7 +183,7 @@ const PROJECTS_SOURCE: readonly ProjectSource[] = [
     imageWidth: DEFAULT_W,
     imageHeight: DEFAULT_H,
     tags: ['Java', 'Spring Boot', 'Dijkstra', 'Redis', 'Docker'],
-    repos: [{ name: 'Repositório', nameEn: 'Repository', url: 'https://github.com/Murilocb123/airmap-dijkstra' }],
+    repos: [{ name: 'Repositório', nameEn: 'Repository', url: 'https://github.com/Murilo-Bittencourt/airmap-dijkstra' }],
   },
   {
     title: 'Truco Pascal',
@@ -195,7 +195,7 @@ const PROJECTS_SOURCE: readonly ProjectSource[] = [
     imageWidth: DEFAULT_W,
     imageHeight: DEFAULT_H,
     tags: ['Pascal', 'Algorithms', 'Data Structures'],
-    repos: [{ name: 'Repositório', nameEn: 'Repository', url: 'https://github.com/Murilocb123/truco-pascal' }],
+    repos: [{ name: 'Repositório', nameEn: 'Repository', url: 'https://github.com/Murilo-Bittencourt/truco-pascal' }],
   },
 ];
 
